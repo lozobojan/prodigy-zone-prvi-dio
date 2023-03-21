@@ -1,0 +1,19 @@
+body{
+    /* color: red;  */
+    /* font-weight: bold; */
+}
+h1,p{
+    color: green;
+}
+
+.plavi-tekst{
+    color: blue;
+}
+.crveni-tekst{
+    color: red;
+}
+#glavni-naslov{
+    color: yellowgreen;
+    font-size: 35px;
+    text-align: center;
+}
